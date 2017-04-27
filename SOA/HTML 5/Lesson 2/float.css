@@ -1,0 +1,39 @@
+body{
+	background-color:silver;
+	font-family:verdana;
+}
+.all_site{
+	background-color:white;
+	width:800px;
+	margin: 0 auto;
+	overflow:hidden;
+}
+.box1{
+	background-color:red;
+	width:150px;
+	height:150px;
+	float:left;
+}
+.box2{
+	background-color:yellow;
+	width:170px;
+	height:140px;
+	float:left;
+}
+.box3{
+	background-color:green;
+	width:500px;
+	height:150px;
+	float:left;
+}
+
+.header{
+	width;100%;
+	height:50px;
+	border:2px solid black;
+	margin-bottom:10px;
+}
+
+/*.clear{
+	clear:both;
+}*/
